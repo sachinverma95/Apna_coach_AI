@@ -571,9 +571,9 @@ This outputs a lightweight `/client/dist/` bundle containing pure, cacheable sta
 
 ## 👥 Contributors
 
-- **Sangam Singh** — *Lead Full-Stack Architect & Core Developer*
-  - GitHub Profile: [@sangamsingh18](https://github.com/sangamsingh18)
-  - GitHub Project Code: [ApnaCoach AI Interview Platform](https://github.com/sangamsingh18/ApnaCoach_AI_Interview_Platform)
+- **Sachin Verma Singh** — *Lead Full-Stack Architect & Core Developer*
+  - GitHub Profile: [@Sachin Vermasingh18](https://github.com/Sachin Vermasingh18)
+  - GitHub Project Code: [ApnaCoach AI Interview Platform](https://github.com/Sachin Vermasingh18/ApnaCoach_AI_Interview_Platform)
 
 ---
 
@@ -826,6 +826,6 @@ graph TD
 ---
 
 <p align="center">
-  Made with ❤️ by Sangam Singh | 18
+  Made with ❤️ by Sachin Verma Singh | 18
 </p># Apna_coach_AI
 # Apna_coach_AI

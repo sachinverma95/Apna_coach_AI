@@ -22,10 +22,10 @@ function Footer() {
             </p>
             <div className='flex items-center gap-3'>
               {[
-                { icon: <BsInstagram size={18}/>, href: "https://www.instagram.com/sangam__singh_/", label: "Instagram", hoverClass: "hover:text-[#E1306C] hover:bg-[#E1306C]/10 hover:border-[#E1306C]/30" },
-                { icon: <BsLinkedin size={18}/>, href: "https://www.linkedin.com/in/sangam-singh-94a52633b", label: "LinkedIn", hoverClass: "hover:text-[#0A66C2] hover:bg-[#0A66C2]/10 hover:border-[#0A66C2]/30" },
-                { icon: <BsGithub size={18}/>, href: "https://github.com/sangamsingh18", label: "GitHub", hoverClass: "hover:text-[#181717] hover:bg-[#181717]/10 hover:border-[#181717]/30" },
-                { icon: <BsGlobe size={18}/>, href: "https://www.sangam18.in/", label: "Portfolio", hoverClass: "hover:text-[#10B981] hover:bg-[#10B981]/10 hover:border-[#10B981]/30" }
+                { icon: <BsInstagram size={18}/>, href: "https://www.instagram.com/Sachin Verma__singh_/", label: "Instagram", hoverClass: "hover:text-[#E1306C] hover:bg-[#E1306C]/10 hover:border-[#E1306C]/30" },
+                { icon: <BsLinkedin size={18}/>, href: "https://www.linkedin.com/in/Sachin Verma-singh-94a52633b", label: "LinkedIn", hoverClass: "hover:text-[#0A66C2] hover:bg-[#0A66C2]/10 hover:border-[#0A66C2]/30" },
+                { icon: <BsGithub size={18}/>, href: "https://github.com/Sachin Vermasingh18", label: "GitHub", hoverClass: "hover:text-[#181717] hover:bg-[#181717]/10 hover:border-[#181717]/30" },
+                { icon: <BsGlobe size={18}/>, href: "https://www.Sachin Verma18.in/", label: "Portfolio", hoverClass: "hover:text-[#10B981] hover:bg-[#10B981]/10 hover:border-[#10B981]/30" }
               ].map((social, i) => (
                 <motion.a
                   key={i}

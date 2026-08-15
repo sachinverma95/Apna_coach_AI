@@ -421,7 +421,7 @@ export default function Guidance() {
                   </label>
                   <textarea
                     className="flex-1 w-full bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800 rounded-xl p-3 text-xs font-mono focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-transparent dark:text-gray-100 min-h-[100px]"
-                    placeholder="E.g. Sangam Singh, Web Developer. Projects: ApnaCoach, Stock Trading. Skills: React, Node, Python, SQL..."
+                    placeholder="E.g. Sachin Verma Singh, Web Developer. Projects: ApnaCoach, Stock Trading. Skills: React, Node, Python, SQL..."
                     value={resumeText}
                     onChange={(e) => setResumeText(e.target.value)}
                   />
