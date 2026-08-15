@@ -4,6 +4,24 @@ import { askAi } from "../services/groq.service.js";
 import User from "../models/user.model.js";
 import Interview from "../models/interview.model.js";
 
+// analyzeResume
+// → Upload → Read PDF → Extract Text → AI → Return Data
+
+// generateQuestion
+// → Input → Validate → User/Credits → AI → Questions → Save
+  
+// submitAnswer
+// → Answer → Validate → AI Evaluation → Save → Feedback
+
+// finishInterview
+// → Get Questions → Calculate Scores → Save → Final Result
+
+// getMyInterviews
+// → User ID → Find Interviews → Sort → Return
+
+// getInterviewReport
+// → Interview ID → Find → Calculate Averages → Return Report
+
 export const analyzeResume = async (req, res) => {
   try {
     if (!req.file) {

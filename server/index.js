@@ -52,6 +52,10 @@ app.use("/api/questions", questionsRouter)
 app.use("/api/evaluate", evaluateRouter)
 app.use("/api/placement", placementRouter)
 
+// "app.use() takes two parameters here. The first parameter (/api/questions) is the base URL or route prefix,
+//  and the second parameter (questionsRouter) is the router object that contains all the question-related endpoints.
+//   Express combines both to create the complete API path." 🚀
+
 const PORT = process.env.PORT || 6000
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`)
