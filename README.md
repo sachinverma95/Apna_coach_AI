@@ -108,7 +108,7 @@ The ApnaCoach platform is designed as a secure, decoupled, client-server system 
                   │                 Node.js + Express.js                   │
                   │    ┌──────────────────────────────────────────────┐    │
                   │    │           API Routing & Controller           │    │
-                  │    │      (Auth, Resume, Questions, Placement)     │    │
+                  │    │      (Auth, Resume, Questions, Placement)    │    │
                   │    └──────────────────────┬───────────────────────┘    │
                   │                           │                            │
                   │              isAuth (JWT verification)                 │
@@ -827,4 +827,4 @@ graph TD
 
 <p align="center">
   Made with ❤️ by Sangam Singh | 18
-</p>
+</p># Apna_coach_AI
